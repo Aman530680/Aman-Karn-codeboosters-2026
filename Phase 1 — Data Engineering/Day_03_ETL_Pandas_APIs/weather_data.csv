@@ -1,11 +1,11 @@
 city,temperature,feels_like,humidity,pressure,wind_speed,condition,visibility,heat_category,humidity_level,feels_diff
-Mumbai,35.0,42.0,55,1009,6.69,Smoke,6,Very Hot,Moderate,7.0
-Delhi,39.0,42.1,32,1003,5.66,Haze,4,Very Hot,Low,3.1
-Bengaluru,30.7,33.5,57,1012,5.36,Scattered Clouds,8,Hot,Moderate,2.8
-Chennai,38.8,45.8,51,1006,4.63,Few Clouds,6,Very Hot,Moderate,7.0
-Hyderabad,37.2,40.1,36,1007,6.17,Few Clouds,6,Very Hot,Low,2.9
-Kolkata,33.0,40.0,66,1004,5.14,Haze,4,Hot,Moderate,7.0
-Pune,35.2,34.6,28,1009,4.18,Few Clouds,10,Very Hot,Low,-0.6
-Jaipur,42.6,40.2,12,1001,6.69,Haze,4,Extreme Heat,Low,-2.4
-Ahmedabad,38.0,38.8,28,1005,7.72,Smoke,5,Very Hot,Low,0.8
-Lucknow,35.0,40.3,49,1001,5.14,Haze,5,Very Hot,Moderate,5.3
+Mumbai,32.0,39.0,66,1011,3.09,Haze,5,Hot,Moderate,7.0
+Delhi,30.0,31.8,54,1008,4.12,Haze,4,Hot,Moderate,1.8
+Bengaluru,25.5,26.1,75,1014,10.73,Overcast Clouds,10,Warm,High,0.6
+Chennai,34.8,41.7,54,1009,5.66,Few Clouds,6,Hot,Moderate,6.9
+Hyderabad,31.2,32.0,45,1010,5.66,Broken Clouds,6,Hot,Moderate,0.8
+Kolkata,33.0,40.0,70,1008,2.57,Haze,3,Hot,High,7.0
+Pune,29.7,29.5,42,1012,3.15,Clear Sky,10,Warm,Moderate,-0.2
+Jaipur,29.1,29.2,45,1008,3.32,Clear Sky,10,Warm,Moderate,0.1
+Ahmedabad,31.0,33.7,55,1009,2.06,Haze,4,Hot,Moderate,2.7
+Lucknow,28.0,30.5,69,1008,3.09,Haze,4,Warm,Moderate,2.5
