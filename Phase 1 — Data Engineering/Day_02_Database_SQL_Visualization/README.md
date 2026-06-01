@@ -34,9 +34,7 @@ Day_02_Database_SQL_Visualization
 ├── class_practice2.ipynb
 ├── Practice_Questions_2.ipynb
 ├── Student_Performance_Dashboard2.ipynb
-├── student_performance.csv
 ├── Titanic-Dataset.csv
-├── student_dashboard.png
 └── README.md
 ```
 
